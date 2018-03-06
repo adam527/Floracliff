@@ -24,7 +24,7 @@
     "spinBox_demtransp": 30, 
     "visible": false
   }, 
-  "OutputFilename": "", 
+  "OutputFilename": "C:/Users/Adam/Documents/BourqueGIS/Floracliff/3D_Interactive_Map.html", 
   "PluginVersion": "1.4.2", 
   "Template": "3DViewer(dat-gui).html"
 }
