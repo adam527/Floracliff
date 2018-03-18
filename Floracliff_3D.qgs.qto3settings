@@ -3,7 +3,7 @@
     "checkBox_Clip": false, 
     "checkBox_Frame": false, 
     "checkBox_Shading": true, 
-    "checkBox_Sides": true, 
+    "checkBox_Sides": false, 
     "checkBox_Surroundings": false, 
     "checkBox_TransparentBackground": false, 
     "comboBox_ClipLayer": null, 
