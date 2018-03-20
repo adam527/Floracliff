@@ -5,7 +5,7 @@
     "checkBox_Shading": true, 
     "checkBox_Sides": false, 
     "checkBox_Surroundings": false, 
-    "checkBox_TransparentBackground": false, 
+    "checkBox_TransparentBackground": true, 
     "comboBox_ClipLayer": null, 
     "comboBox_DEMLayer": "Ky_DEM_KYAPED_5FT_Hillshade_1120180306133030008", 
     "comboBox_TextureSize": 100, 
