@@ -8,8 +8,8 @@
     "checkBox_TransparentBackground": true, 
     "comboBox_ClipLayer": null, 
     "comboBox_DEMLayer": "Ky_DEM_KYAPED_5FT_Hillshade_1120180306133030008", 
-    "comboBox_TextureSize": 100, 
-    "horizontalSlider_DEMSize": 2, 
+    "comboBox_TextureSize": 200, 
+    "horizontalSlider_DEMSize": 4, 
     "layerImageIds": [
       "Wilson_Connector_To_River_Road_LineString20180306140850503", 
       "Wieland_Wildflower_Trail_LineString20180306140849557", 
